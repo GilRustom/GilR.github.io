@@ -41,7 +41,9 @@ El resultado debe ser parecido al que aparece en la siguiente imagen:
 
 
 
-NOTA: a partir de aqui ya no se ha podido acabar la práctica ya que en el portal de jenkins da errores a la hora de seguir con los pasos para hacer la práctica.
+## Añadir etapa de cobertura de código
+
+Para ello se añade el siguiente codigo al archivo jenkinsfile:
 
 
 
